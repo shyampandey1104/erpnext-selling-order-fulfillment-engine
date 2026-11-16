@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include selling_fulfillment *.css
+recursive-include selling_fulfillment *.csv
+recursive-include selling_fulfillment *.html
+recursive-include selling_fulfillment *.ico
+recursive-include selling_fulfillment *.js
+recursive-include selling_fulfillment *.json
+recursive-include selling_fulfillment *.md
+recursive-include selling_fulfillment *.png
+recursive-include selling_fulfillment *.py
+recursive-include selling_fulfillment *.svg
+recursive-include selling_fulfillment *.txt
+recursive-exclude selling_fulfillment *.pyc
