@@ -1,0 +1,9 @@
+[
+ {
+  "dt": "Erpnext Selling Order Fulfillment Engine Entry",
+  "fieldname": "custom_audit_verified",
+  "fieldtype": "Check",
+  "insert_after": "status",
+  "label": "Audit Verified"
+ }
+]
